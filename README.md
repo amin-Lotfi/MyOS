@@ -121,13 +121,5 @@ qemu-system-x86_64 -cdrom MyOS.iso
 
 This will start the operating system in a virtual machine, which you can interact with. If you wish to make changes or improvements to the operating system, modify the source code, rebuild it, and test it again.
 
-## Contributing
 
-Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
-
-### Code Style
-
-- Please follow the C coding standards when contributing.
-- Use meaningful commit messages.
-- Ensure that any new features or fixes are thoroughly tested.
 
